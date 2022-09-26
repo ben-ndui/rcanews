@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "749517081892",
+    "project_id": "rcanews-6c5ae",
+    "storage_bucket": "rcanews-6c5ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749517081892:android:12c6d2fe74895fce8837b1",
+        "android_client_info": {
+          "package_name": "com.smoothdesign.rcanews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749517081892-98400it4amksl2p51oj6dhd9795cr0ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIAnzNCneBlUF7v-7HSYjsVVA9jdryutM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749517081892-98400it4amksl2p51oj6dhd9795cr0ti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "749517081892-vujuh1ofjn2oquoqjach9p0h2ldr72lu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smoothdesign.rcanews"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
